@@ -1,0 +1,23 @@
+{
+    "foregroundKey": [
+        "ctrl",
+        "shift"
+    ],
+    "backKey": [
+        "scroll lock"
+    ],
+    "nextKey": [
+        "pause"
+    ],
+    "pauseKey": [
+        "print screen"
+    ],
+    "volumeUpKey": [
+        "ctrl",
+        "\\"
+    ],
+    "volumeDownKey": [
+        "ctrl",
+        "]"
+    ]
+}

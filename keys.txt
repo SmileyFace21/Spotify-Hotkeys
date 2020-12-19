@@ -1,0 +1,64 @@
+`
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+-
+=
+q
+w
+e
+r
+t
+y
+u
+i
+o
+p
+[
+]
+\
+a
+s
+d
+f
+g
+h
+j
+k
+l
+;
+'
+z
+x
+c
+v
+b
+n
+m
+,
+.
+/
+ctrl
+shift
+scroll lock
+pause
+alt
+left windows
+right windows
+menu
+next track
+previous track
+play/pause media
+enter
+page up
+page down
+delete
+home
+print screen
